@@ -10,4 +10,3 @@ I am a Full Stack Developer and Designer with experience in developing and desig
 
 
 <img src="https://api.githubtrends.io/user/svg/yuvraajnarula/repos?time_range=one_year&theme=dark" alt="yuvraaj-narula-stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvraajnarula&show_icons=true&theme=radical" alt="yuvraajnarula" />
