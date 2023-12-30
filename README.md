@@ -9,4 +9,4 @@ I am a Full Stack Developer and Designer with experience in developing and desig
 - 📫 : How to reach me: mailto:ynarula678@gmail.com
 
 
-<img src="https://api.githubtrends.io/user/svg/yuvraajnarula/repos?time_range=one_year&theme=dark" alt="yuvraaj-narula-stats" />
+  
